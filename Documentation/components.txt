@@ -1,0 +1,22 @@
+Transmitter Unit
+
+1x ESP32 Development Board
+1x MPU6050
+2x 18650 Li-ion Batteries (3.7V). Or li-po battery if available
+1x 2-Slot 18650 Battery Holder.
+1x On/Off Rocker Switch
+1x Glove
+1x Mini Breadboard
+----------------------------------------------------------------------
+2. Receiver Unit
+
+1x ESP32 Development Board.
+1x L293D Motor Driver Module.
+1x HC-SR04 Ultrasonic Sensor.
+4x DC Gear Motors.
+2x Wheels.
+1x Robot Chassis Kit.
+2x 18650 Li-ion Batteries (3.7V)
+1x 2-Slot 18650 Battery Holden
+1x On/Off Rocker Switch.
+1x Breadboard
